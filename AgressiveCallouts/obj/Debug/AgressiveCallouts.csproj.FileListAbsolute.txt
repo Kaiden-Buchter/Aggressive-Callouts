@@ -1,0 +1,11 @@
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\bin\Debug\AgressiveCallouts.net.dll
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\bin\Debug\AgressiveCallouts.net.pdb
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\bin\Debug\FivePD.net.dll
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\bin\Debug\CitizenFX.Core.Client.xml
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\bin\Debug\FivePD.net.xml
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\obj\Debug\AgressiveCallouts.csproj.AssemblyReference.cache
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\obj\Debug\AgressiveCallouts.csproj.CoreCompileInputs.cache
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\obj\Debug\AgressiveCallouts.csproj.CopyComplete
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\obj\Debug\AgressiveCallouts.net.dll
+C:\Users\kaide\RiderProjects\AgressiveCallouts\AgressiveCallouts\obj\Debug\AgressiveCallouts.net.pdb
